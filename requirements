@@ -1,5 +1,1 @@
-Pillow==7.0.0
-pyHook==1.5.1
-PyMouse==1.0
-PyUserInput==0.1.11
-pywin32==227
+pyautogui
